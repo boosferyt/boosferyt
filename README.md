@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://takumifujiwara.straw.page/">straw</a>  ⠀
   <a href="https://github.com/user-attachments/assets/4365356e-381c-4b82-bed5-0c689875618b" alt="GIF"</a>
-  <a href="https://bryce.atabook.org">ata</a>
+  <a href="https://boosfer.atabook.org">ata</a>
 </p>
 
 <p align="center">
