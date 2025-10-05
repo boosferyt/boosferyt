@@ -1,6 +1,8 @@
 <div align="center">    
-  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=&color=651fff&style=plastic" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=&color=7ED956&style=plastic" alt="Profile views"/>
 </div>
+
+<p align="center">
 
 <p align="center">
   <a href="https://takumifujiwara.straw.page/">straw</a>  ⠀
