@@ -1,3 +1,7 @@
+<table>
+  <tr>
+  <td>
+    
 <div align="center">    
   <img src="https://komarev.com/ghpvc/?username=Iimbus&label=&color=7ED956&style=plastic" alt="Profile views"/>
 </div>
@@ -17,5 +21,8 @@
 </p>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/bb154e87-35d0-42e1-8ebb-2cb987490a60" />
+   <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/1506a12f-ad33-4cf1-85f3-001c3d9dfd9d" />
 </p>
+
+</tr>
+</table>
