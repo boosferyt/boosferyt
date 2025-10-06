@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  sp is outdated
+  sign my ata and sp
 </p>
   
 <p align="center">
